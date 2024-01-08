@@ -2,7 +2,7 @@
 
 This toolkit provides an implementation of the Inverse Perspective Mapping (IPM) technique using Python and OpenCV. It includes functionalities for calibration through both manual and satellite-based methods.
 
-The tutorial for using the toolkit is outlined in the Guide.pdf file.
+**The tutorial for using the toolkit is outlined in Guide.pdf.**
 
 ## Requirements
 - OS: Windows / Linux / Mac
