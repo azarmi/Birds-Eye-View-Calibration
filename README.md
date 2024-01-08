@@ -1,2 +1,4 @@
-# Birds-Eye-View-Calibration
-Bird’s Eye View Calibration Toolkit 
+# Birds Eye View Calibration Toolkit
+(Implementation of Inverse Perspective Mapping (IPM) technique using Python & OpenCV)
+
+
